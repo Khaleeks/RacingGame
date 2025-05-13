@@ -1,5 +1,7 @@
 # KhalRacing Circuit 🏎️
 
+[Game Demo](https://youtu.be/YWghbzbFJl0?si=f_OY1GsuFGSLgpND)
+
 ## The Game I Built
 
 I spent weeks creating this racing game, and honestly, I'm pretty proud of how it turned out! It's got mountain tracks, different cars to drive, and all kinds of cool features that make it feel like a real racing experience.
